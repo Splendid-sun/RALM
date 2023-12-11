@@ -1,0 +1,26 @@
+# 官方数据
+https://www.kaggle.com/competitions/kaggle-llm-science-exam
+
+# 训练数据
+https://www.kaggle.com/datasets/cdeotte/60k-data-with-context-v2
+
+# Wiki数据集: 270K Wikipedia STEM articles
+https://www.kaggle.com/datasets/mbanaei/all-paraphs-parsed-expanded
+
+# 模型
+1. Sentence Model: bge-large
+https://huggingface.co/BAAI/bge-large-en-v1.5
+
+2. Llama-2-13b
+https://huggingface.co/meta-llama/Llama-2-13b
+
+3. Llama-2-7b
+https://huggingface.co/meta-llama/Llama-2-7b
+
+
+# 导入的库
+https://www.kaggle.com/datasets/inversion/sentence-transformers-222
+https://www.kaggle.com/datasets/decoflight/bitsandbytes-0410/
+https://www.kaggle.com/datasets/tomokihirose/faiss-gpu-173-python310/
+https://www.kaggle.com/datasets/krutika23/transformer-4-31
+https://www.kaggle.com/datasets/urvishp80/llm-accelerate-whl
