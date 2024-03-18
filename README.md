@@ -1,4 +1,4 @@
-# RALM on LLM Science Exam
+# RALM on Knowledge-Intensive Discriminative Task
 
 ## 背景/目标
 
